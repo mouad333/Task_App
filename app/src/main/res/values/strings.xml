@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Tasks App</string>
+    <string name="to_do">My Tasks App</string>
+    <string name="enter_task">My Tasks App</string>
+</resources>
